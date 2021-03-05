@@ -10,6 +10,6 @@ We propose a practical approach for detecting the event that a human wearing an 
 
 The PDF version for now is available [here](to_add)
 
-### Video Submission
+### Video Submission (click to open on youtube)
 
 [![Pointing  at  Moving  Robots:  Detecting  Events  from  Wrist  IMU  Data](https://github.com/idsia-robotics/pointing-detection-moving-robots/blob/main/videos/Pointing_at_Moving_Robots_Detecting_Pointing_Events_from_Wri.gif)](https://www.youtube.com/watch?v=x7Xt7Xr7pWk&ab_channel=BorisGromov)
