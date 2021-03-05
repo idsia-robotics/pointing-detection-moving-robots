@@ -12,4 +12,4 @@ The PDF version for now is available [here](to_add)
 
 ### Video Submission
 
-[![Pointing  at  Moving  Robots:  Detecting  Events  from  Wrist  IMU  Data](https://github.com/idsia-robotics//pointing-detection-moving-robots/blob/main/videos/Pointing_at_Moving_Robots_Detecting_Pointing_Events_from_Wri.gif)](https://www.youtube.com/watch?v=x7Xt7Xr7pWk&ab_channel=BorisGromov)
+[![Pointing  at  Moving  Robots:  Detecting  Events  from  Wrist  IMU  Data](https://github.com/idsia-robotics/pointing-detection-moving-robots/blob/main/videos/Pointing_at_Moving_Robots_Detecting_Pointing_Events_from_Wri.gif)](https://www.youtube.com/watch?v=x7Xt7Xr7pWk&ab_channel=BorisGromov)
